@@ -7,13 +7,13 @@ namespace UniApp{
         public async Task getUnis(string country){
             HttpClient client = new HttpClient();
             string urlCountry = country.Replace(" ", "+");
-            Console.WriteLine(urlCountry);
+            // Console.WriteLine(urlCountry);
             string url = $"http://universities.hipolabs.com/search?country={urlCountry}";
-            Console.WriteLine(url);
-            string rawdata = await client.GetStringAsync("http://universities.hipolabs.com/search?country=United+Kingdom");
+            // Console.WriteLine(url);
+            string rawdata = await client.GetStringAsync(url);
             this.universities = JsonConvert.DeserializeObject<List<Universities>>(rawdata);
         }
-        List <Universities> universities;
+        public List <Universities> universities;
     }
     class Universities{
         public string country;
