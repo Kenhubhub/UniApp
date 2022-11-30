@@ -1,0 +1,17 @@
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\bin\Debug\net7.0\UniApp.exe
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\bin\Debug\net7.0\UniApp.deps.json
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\bin\Debug\net7.0\UniApp.runtimeconfig.json
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\bin\Debug\net7.0\UniApp.dll
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\bin\Debug\net7.0\UniApp.pdb
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\UniApp.csproj.AssemblyReference.cache
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\UniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\UniApp.AssemblyInfoInputs.cache
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\UniApp.AssemblyInfo.cs
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\UniApp.csproj.CoreCompileInputs.cache
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\UniApp.dll
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\refint\UniApp.dll
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\UniApp.pdb
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\UniApp.genruntimeconfig.cache
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\ref\UniApp.dll
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\luo_k\workbench\bootcamp\CSharpProjects\UniApp\src\UniApp\obj\Debug\net7.0\UniApp.csproj.CopyComplete
